@@ -1,0 +1,11 @@
+.nav-link {
+  text-decoration: none;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+}
+.blogs {
+  margin-right: 10px;
+  font-family: 'roboto';
+}
